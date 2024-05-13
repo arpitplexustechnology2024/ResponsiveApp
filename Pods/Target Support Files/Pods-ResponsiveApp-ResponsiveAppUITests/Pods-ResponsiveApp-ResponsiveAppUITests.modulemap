@@ -1,0 +1,6 @@
+framework module Pods_ResponsiveApp_ResponsiveAppUITests {
+  umbrella header "Pods-ResponsiveApp-ResponsiveAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
